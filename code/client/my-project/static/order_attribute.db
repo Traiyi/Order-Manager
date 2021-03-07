@@ -1,0 +1,17 @@
+{"id":"print_surface","name":"印刷面","datas":["单面","双面"],"_id":"9oemzzErEFU8hfDA"}
+{"id":"handle_print","name":"提手边片印刷","datas":["无","1色"],"_id":"E7qaV1JEi10rvkpE"}
+{"id":"paper","name":"纸张","datas":["箱板纸","白牛皮","俄卡","美卡","岳阳全木浆黄牛皮","国产全木浆黄牛皮","染色纸"],"_id":"L1LbfyRNTjALId6S"}
+{"id":"double_sided_glue","name":"双面胶","datas":["1条","2条"],"_id":"ODUUphR6yeZczdxJ"}
+{"id":"g_weight","name":"克重 (g)","datas":[40,50,60,70,80,90,100,110,120,130,140,150,170,180,200],"_id":"PFMgRt9MnBbakZlr"}
+{"id":"handle","name":"提手","datas":["圆提手","扁提手","无提手","穿孔"],"_id":"VuowEwmQw8rQkmFQ"}
+{"id":"handle_color","name":"提手颜色","datas":["白色","本色","染色"],"_id":"XMa64psbBN07ANQ8"}
+{"id":"the_area_printed_inside_the_paper_bag","name":"纸袋内部印刷颜色面积","datas":["100%+光油"],"_id":"ZFMvos20yrnIwsj1"}
+{"id":"light_oil","name":"光油","datas":["哑光","亮光","防水","触感"],"_id":"aLxlmR6d2gyra3ZP"}
+{"id":"business_nature","name":"业务性质","datas":["内贸","出口"],"_id":"bm13aT9DUI4lDwQM"}
+{"id":"print_color","name":"印刷颜色","datas":["无","底部1色LOGO","1色","2色","3色","4色","5色","6色","7色","8色","9色"],"_id":"lLiAV2IjRsRbPT3D"}
+{"id":"the_color_of_the_bronzing","name":"烫金颜色","datas":["1色","2色","3色","4色"],"_id":"lxJ05X3r4uzWtvke"}
+{"id":"pape_bag_form","name":"纸袋形式","datas":["齿口圆绳","平口圆绳","倒J口圆绳","倒J口扁绳","齿口扁绳（内折）","SOS手捧袋（八字底）","SOS手捧袋拇指扣","SOS手捧袋（西班牙款）","尖底袋","穿孔袋(纸贴片）","信封袋（ ZARA款）","信封袋 （西班牙款）","枕头袋（西班牙款）"],"_id":"r3Yog6eVkyMIBVXk"}
+{"id":"double_sided_glue_length","name":"双面胶长度","datas":["贴片长","满袋宽-2CM"],"_id":"sQTk4vlhBFdDUUqS"}
+{"id":"the_color_printed_inside_the_paper_bag","name":"纸袋内部印刷颜色","datas":["无","1色"],"_id":"wRrmAD0BIE5oxN3u"}
+{"id":"print_area","name":"印刷面积","datas":["10%","20%","30%","40%","50%","60%","70%","80%","90%","100%"],"_id":"x7uHPQC5asXIvRk7"}
+{"id":"the_number_of_per_box","name":"只/箱","datas":[50,100,200,250,300,400,500,1000],"_id":"ySZsy55qCI1p0slf"}
